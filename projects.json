@@ -86,7 +86,7 @@
     {"title": "TxTop", "owner": "blinklabs-io", "names": ["txtop"]},
     {"title": "NMKR", "owner": "nftmakerio"},
     {"title": "Masumi", "owner": "masumi-network"},
-    {"title": "Scalus", "owner": "nau", "names": ["scalus"]},
+    {"title": "Scalus", "owner": "scalus3", "names": ["scalus"]},
     {"title": "Lace", "owner": "input-output-hk", "names": ["lace"]},
     {"title": "PaylKoyn", "owner": "SAIB-Inc", "names": ["paylkoyn"]},
     {"title": "Evolution SDK", "owner": "no-witness-labs", "names": ["evolution-sdk"]}
